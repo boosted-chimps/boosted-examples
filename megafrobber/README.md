@@ -48,6 +48,6 @@ Usage: megafrobber [OPTIONS]
 
 Options:
   --count INTEGER  Number of greetings.
-    --name TEXT      The person to greet.
-      --help           Show this message and exit.
+  --name TEXT      The person to greet.
+  --help           Show this message and exit.
 ```
