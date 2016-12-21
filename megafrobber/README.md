@@ -9,6 +9,17 @@ sudo dnf install -y rpmdevtools
 cd && rpmdev-setuptree
 ```
 
+This will generate an `rpmbuild` directory with the following subdirectories.
+
+```
+rpmbuild
+├── BUILD
+├── RPMS
+├── SOURCES
+├── SPECS
+└── SRPMS
+```
+
 ## Building
 
 Use the Makefile to build an rpm package. The final package will be created as `~/rpmbuild/RPMS/x86_64/megafrobber-0.1-1.fc24.x86_64.rpm`.
