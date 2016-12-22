@@ -9,4 +9,4 @@ path = sys.argv[1]
 if os.path.exists(path):
     print "%s\t%s" % (path, os.path.getsize(path))
 else:
-    print "Path %s does not exist! You cuck!" % path
+    print "Path %s does not exist!" % path
