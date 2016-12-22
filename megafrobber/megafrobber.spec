@@ -7,7 +7,7 @@ License:        MIT
 URL:            http://github.com/boosted-chimps/boosted-examples/megafrobber
 Source0:        %{name}-%{version}.tar.gz
 
-Requires:	python-click
+
 
 %description
 Megafrob ur downloads for fun and profit.
