@@ -25,7 +25,7 @@ cd boosted-examples/homework/
 
 ## Assignment
 
-1. Create a directory (e.g. `abutcher`) within `~/boosted-examples/homework`.
+1. Create a directory for yourself (e.g. `abutcher`) within `~/boosted-examples/homework`.
 
 2. Within directory you just created, create a `homework1.py` file which will contain your work (e.g. `~/boosted-examples/homework/abutcher/homework1.py`).
 
