@@ -30,22 +30,18 @@ cd boosted-examples/homework/
 2. Within directory you just created, create a `homework1.py` file which will contain your work (e.g. `~/boosted-examples/homework/abutcher/homework1.py`).
 
 3. Edit `homework1.py` and write the following functions:
-
-Create a function which, given a string, will return `True` if the
-string is a palindrome. The function must return `False` if the
-provided string is not a palindrome. A palindrome is a word or
-phrase that reads the same backward as forward such as `"racecar"`.
-This function must ignore spaces in the string such that a phrase
-like `"are we not drawn onward to new era"` will be recognized as a
-palindrome.
-
-Create a function that accepts a list of strings and prints out
-which strings are palindromes (using the palindrome function).
-
-```python
->>> palindromes(["racecar", "are we not drawn onward to new era", "malathar"])
-racecar is a palindrome
-are we not drawn onward to new era is a palindrome
-```
-
+  * Create a function which, given a string, will return `True` if the
+    string is a palindrome. The function must return `False` if the
+    provided string is not a palindrome. A palindrome is a word or
+    phrase that reads the same backward as forward such as `"racecar"`.
+    This function must ignore spaces in the string such that a phrase
+    like `"are we not drawn onward to new era"` will be recognized as a
+    palindrome.
+  * Create a function that accepts a list of strings and prints out
+    which strings are palindromes (using the palindrome function).
+  ```python
+  >>> palindromes(["racecar", "are we not drawn onward to new era", "malathar"])
+  racecar is a palindrome
+  are we not drawn onward to new era is a palindrome
+  ```
 4. Commit your `homework1.py` file using git and push your new file to github.
